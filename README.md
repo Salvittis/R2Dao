@@ -188,9 +188,6 @@ Uno confirma o recebimento.
 
 | Integrante | RM |
 |---|---|
-| Gabriel Gomes Catanzaro | RM93445 |
-| Lucas Gomes Alcântara | RM98766 |
-| Filipe Prado Menezes | RM98765 |
-| Henrique Canali Cuzato | RM551326 |
-| Cassio Eid Kobayashi Yonetsuka | RM99678 |
 | Pedro Henrique Salvitti Habiro | RM88166 |
+| Filipe Prado Menezes | RM98765 |
+| Cássio Eid Kobaysahi Yonetsuka | RM99678 |
